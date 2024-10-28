@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://byafrd.github.io/wVF/sitemap.wVF
